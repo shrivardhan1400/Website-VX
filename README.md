@@ -1,3 +1,47 @@
+# Website-VX
+
+**80-Day Web3 Website Build Challenge**
+
+Website-VX is a GitHub-style developer hub built in public as part of an 80-day consistency challenge.
+
+## Goal
+To design and develop a production-grade Web3-focused website containing:
+- Resume & portfolio
+- Live Web3 projects
+- Mini social media dApp
+- Auth & payment demos
+- Daily GitHub streak with visible progress
+
+---
+
+## Tech Stack
+**Frontend**
+- Next.js (App Router)
+- Tailwind CSS
+- GitHub-style dark UI
+
+**Web3 (Upcoming)**
+- Solidity
+- ethers.js
+- Wallet integration
+- Testnet deployments
+
+---
+
+## 🔥 Challenge Streak
+| Day | Progress |
+|----|---------|
+| Day 01 | Next.js setup, GitHub-style dark theme, repo initialized |
+
+---
+
+## 🛠 Local Development
+
+```bash
+npm install
+npm run dev
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
